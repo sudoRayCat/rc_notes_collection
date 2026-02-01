@@ -1,19 +1,16 @@
 ---
+author:
 class: note
 tags:
-source:
-author:
 description:
-aliases:
+source:
+related:
 date created:
 last update:
+aliases:
 ---
 
 Machine learning is a program that uses data to learn and make predictions and then act on them.
-
-
-
-
 
 
 # Key Terms
